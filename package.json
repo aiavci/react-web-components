@@ -1,5 +1,5 @@
 {
-  "name": "react-web-components",
+  "name": "r-t-components",
   "version": "0.0.1",
   "description": "React Web Components used in multiple websites",
   "main": "build/index.js",
@@ -13,6 +13,10 @@
     "Web",
     "Components"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/aiavci/react-web-components.git"
+  },
   "author": "aavci",
   "license": "ISC",
   "dependencies": {
